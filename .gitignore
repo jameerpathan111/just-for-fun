@@ -22,3 +22,6 @@ db.sqlite3
 
 # pycharm
 .idea/
+
+#other
+.secret_key
